@@ -2,9 +2,7 @@
 
 int main() {
 
-    /* ===============================
-       DECLARAÇÃO DAS VARIÁVEIS
-       =============================== */
+    /* DECLARAÇÃO DAS VARIÁVEIS */
 
     /* Carta 1 */
     char estado1;
@@ -24,9 +22,7 @@ int main() {
     float pib2;
     int pontosTuristicos2;
 
-    /* ===============================
-       ENTRADA DE DADOS
-       =============================== */
+    /* ENTRADA DE DADOS */
 
     printf("===== CADASTRO DA CARTA 1 =====\n");
 
